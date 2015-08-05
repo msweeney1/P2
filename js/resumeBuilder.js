@@ -95,9 +95,9 @@ var projects = {
         },
         {
            "title"        : "Udacity Front-end Web Developer Project 2",
-            "dates"       : "",
-            "description" : "",
-            "images"      : [""]
+            "dates"       : "July 2015",
+            "description" : "Design and build an online resume",
+            "images"      : ["images/P2 Screenshot.png"]
         },
         {
            "title"        : "Udacity Front-end Web Developer Project 3",
