@@ -7,7 +7,7 @@ var bio = {
 		"email"    : "mattsweeney2006@gmail.com",
         "github"   : "msweeney1",
 				"twitter"	 : "none",
-        "location" : "Austin"
+        "location" : "Austin, TX"
 	},
     "pic" : "images/Profile_Pic.png",
     "skills" : ["HTML","CSS","Javascript", "JQuery", "Git", "ARCMap", "Business Objects", "Design Studio"],
@@ -61,7 +61,7 @@ var work = {
         {
             "employer"    : "AT&T",
             "title"       : "Profesional Application Developer",
-            "location"    : "Austin",
+            "location"    : "Austin, TX",
             "dates"       : "2006-Present",
             "description" : "GIS development and analysis."
         },
