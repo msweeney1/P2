@@ -10,7 +10,7 @@ var bio = {
         "location" : "Austin, TX"
 	},
     "pic" : "images/Profile_Pic.png",
-    "skills" : ["HTML","CSS","Javascript", "JQuery", "Git", "ARCMap", "Business Objects", "Design Studio"],
+    "skills" : ["HTML","CSS","Javascript", "JQuery", "Git", "ARCMap", "Business Objects", "Design Studio", "Photoshop"],
     display: function() {
 
       var headerSection = $('#header');
